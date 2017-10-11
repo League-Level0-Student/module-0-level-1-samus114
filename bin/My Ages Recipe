@@ -1,10 +1,11 @@
 /*******************************************************************************
- * Years Alive
+ *	My Ages
 
  *    Copyright (c) The League of Amazing Programmers 2013-2017
  *    Level 0
+ 
 
-Using a for loop, print out all the years you have been alive (e.g. 2000, 2001, ....)
+Using a for loop, print out all the ages you have been alive, up to your current age.
 	
 */
 
